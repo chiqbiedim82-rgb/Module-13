@@ -62,7 +62,7 @@ def fetch_latest_stock_price(api_key, ticker_symbol):
         
 def main():
     
-    api_key = "your_api_key"
+    api_key = 038PW4F8K4RVLLF5
     ticker_symbol = input("Enter ticker symbol: ")
     #fetch_daily_stock_prices(api_key, ticker_symbol)
 
